@@ -1,0 +1,29 @@
+body{
+    background: url("../img/loginBG.png") no-repeat;
+    background-size: cover;
+}
+
+form{
+    height: 100%;
+    width: 100%;
+}
+
+#login{
+    background: #23262E;
+    width: 275px;
+    height: 230px;
+    margin: 140px auto;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+
+.input1{
+    margin: 25px;
+    width: 225px;
+}
+
+.input2{
+    margin: 10px 57px;
+    width: 160px;
+}

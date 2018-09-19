@@ -14,6 +14,6 @@ public class RootController {
 
     @RequestMapping("manage")
     String article() {
-        return "redirect:/manage/article";
+        return "redirect:/manage/article/";
     }
 }
